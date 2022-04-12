@@ -4,7 +4,7 @@ Description...
 
 ## Subheader
 
-Watche tutorial on YouTube
+Watch tutorial on YouTube
 
 ## Local Development
 
